@@ -1,14 +1,10 @@
-  -----------------------------------------------
-  **ADViCE: AI for Decarbonisation Challenges**
-  -----------------------------------------------
+---
+title: "AI for Decarbonisation Challenges"
+draft: false
+---
 
-  --------------------------------
-  Dr Stephen Haben and Sam Young
-  --------------------------------
-
-  -------------------
-  **December 2023**
-  -------------------
+Dr Stephen Haben and Sam Young
+**December 2023**
 **Contents**
 
 [1. Executive Summary](#executive-summary)  
