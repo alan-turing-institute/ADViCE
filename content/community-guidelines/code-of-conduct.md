@@ -2,7 +2,6 @@
 title: "Code of Conduct"
 draft: false
 ---
-# Code of Conduct
 # Contributor Covenant Code of Conduct
 
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
