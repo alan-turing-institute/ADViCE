@@ -1,5 +1,5 @@
 ---
-title: "ADViCE Home"
+title: "AI for Decarbonisation’s Virtual Centre of Excellence"
 draft: false
 ---
 # AI for Decarbonisation’s Virtual Centre of Excellence
@@ -18,3 +18,6 @@ The virtual centre of excellence will act as the front door for all collaborator
 - Disseminate information publicly and to relevant networks
 - Identify strategic and priority challenges for AI innovation for decarbonisation
 - Provide pathways to leverage private funding
+
+## Get Involved
+You can express your interest by filling in [this form](https://assets-gbr.mkt.dynamics.com/cd69a60c-3e6e-41d1-9cc4-5dc606fed704/digitalassets/standaloneforms/02f1dcd2-538c-ee11-be36-6045bd0e6795)
