@@ -13,7 +13,7 @@ theme = 'hugo-theme-techdoc'
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
     github_doc_repository = "https://github.com/alan-turing-institute/ADViCE"
-    github_doc_repository_path = "https://github.com/alan-turing-institute/ADViCE"
+    github_doc_repository_path = "https://github.com/alan-turing-institute/content/"
     github_doc_repository_branch = "master"
 
     # Analytic section
