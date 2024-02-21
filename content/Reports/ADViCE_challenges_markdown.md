@@ -3,7 +3,7 @@ title: "AI for Decarbonisation Challenges"
 draft: false
 ---
 
-Dr Stephen Haben and Sam Young
+Dr. Stephen Haben and Sam Young
 
 **December 2023**
 
