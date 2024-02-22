@@ -2,7 +2,6 @@
 title: "AI for Decarbonisation’s Virtual Centre of Excellence"
 draft: false
 ---
-# AI for Decarbonisation’s Virtual Centre of Excellence
 
 Artificial Intelligence for Decarbonisation’s Virtual Centre of Excellence (ADViCE) is aimed at the development of innovative artificial intelligence technologies for decarbonisation applications to support the transition to Net Zero.
 
