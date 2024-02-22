@@ -37,8 +37,6 @@ Dr Stephen Haben and Sam Young
 [9. Appendix: Challenge Selection Resources](#appendix-challenge-selection-resources)  
 [10. Acknowledgements](#acknowledgements)
 
-![](000.jpg)
-![](image6.png)
 # Executive Summary
 
 As outlined in the ADViCE ecosystem report, many current applications of
@@ -470,7 +468,7 @@ remain a small percentage of the overall stock. For example, only 18% of
 all vehicles[^4] purchased globally in 2023 are electric, and as of
 April 2023 the UK has only installed 380,000 heat pumps[^5].
 
-![](media/image6.png)
+![](image6.png)
 
 *Figure 1. Installations of air source heat pumps (ASHP) and ground
 source or water source heat pumps (G/WSHP) in the UK from 2010 to 2022.
