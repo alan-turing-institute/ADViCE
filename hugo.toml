@@ -49,8 +49,7 @@ theme = 'hugo-theme-techdoc'
         "blog",
         "entry",
         "post",
-        "posts",
-        "media"
+        "posts"
     ]
 
 # Global menu section
