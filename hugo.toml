@@ -2,7 +2,6 @@ baseURL = 'https://alan-turing-institute.github.io/ADViCE/'
 languageCode = 'en-us'
 title = 'ADViCE'
 theme = 'hugo-theme-techdoc'
-RelativeURLs=false
 RelativeURLs=true
 
 [params]
