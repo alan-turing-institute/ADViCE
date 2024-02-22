@@ -2,7 +2,7 @@ baseURL = 'https://alan-turing-institute.github.io/ADViCE/'
 languageCode = 'en-us'
 title = 'ADViCE'
 theme = 'hugo-theme-techdoc'
-canonifyURLs = true
+RelativeURLs=false
 RelativeURLs=true
 
 [params]
