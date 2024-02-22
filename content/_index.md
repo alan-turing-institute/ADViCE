@@ -4,7 +4,6 @@ draft: false
 ---
 
 Artificial Intelligence for Decarbonisation’s Virtual Centre of Excellence (ADViCE) is aimed at the development of innovative artificial intelligence technologies for decarbonisation applications to support the transition to Net Zero.
-![](000.jpg)
 
 As part of the Department for Energy Security and Net Zero’s (DESNZ) Net Zero Innovation Portfolio, the Artificial Intelligence for Decarbonisation Programme has been set up to support and promote the adoption of Artificial Intelligence decarbonisation solutions for industries.
 
