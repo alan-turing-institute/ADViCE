@@ -2,6 +2,7 @@ baseURL = 'https://alan-turing-institute.github.io/ADViCE/'
 languageCode = 'en-us'
 title = 'ADViCE'
 theme = 'hugo-theme-techdoc'
+canonifyURLs = true
 
 [params]
 
@@ -49,7 +50,8 @@ theme = 'hugo-theme-techdoc'
         "blog",
         "entry",
         "post",
-        "posts"
+        "posts",
+        "media"
     ]
 
 # Global menu section
