@@ -37,7 +37,8 @@ Dr Stephen Haben and Sam Young
 [9. Appendix: Challenge Selection Resources](#appendix-challenge-selection-resources)  
 [10. Acknowledgements](#acknowledgements)
 
-
+![](000.jpg)
+![](media/image6.png)
 # Executive Summary
 
 As outlined in the ADViCE ecosystem report, many current applications of
