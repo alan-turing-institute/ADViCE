@@ -469,7 +469,7 @@ remain a small percentage of the overall stock. For example, only 18% of
 all vehicles[^4] purchased globally in 2023 are electric, and as of
 April 2023 the UK has only installed 380,000 heat pumps[^5].
 
-![myfigure1](https://github.com/alan-turing-institute/ADViCE/blob/main/content/Reports/media/image6.png)
+![myfigure1](../media/image6.png)
 
 *Figure 1. Installations of air source heat pumps (ASHP) and ground
 source or water source heat pumps (G/WSHP) in the UK from 2010 to 2022.
