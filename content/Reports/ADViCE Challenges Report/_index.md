@@ -38,7 +38,7 @@ Dr Stephen Haben and Sam Young
 [10. Acknowledgements](#acknowledgements)
 
 ![](000.jpg)
-![](media/image6.png)
+![](image6.png)
 # Executive Summary
 
 As outlined in the ADViCE ecosystem report, many current applications of
