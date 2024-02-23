@@ -3,7 +3,6 @@ title: "How to Contribute"
 draft: false
 ---
 # Community Guidelines
-# How to contribute?
 
 Thank you for taking the time to contribute to this project. 🎉
 
