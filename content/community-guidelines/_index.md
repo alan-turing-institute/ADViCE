@@ -2,7 +2,6 @@
 title: "Community Guidelines"
 draft: false
 ---
-# Community Guidelines
 About page
 
 This community space is for cross-sector collaboration and knowledge sharing.
