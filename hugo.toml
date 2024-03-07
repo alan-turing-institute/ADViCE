@@ -50,7 +50,8 @@ theme = 'hugo-theme-techdoc'
         "blog",
         "entry",
         "post",
-        "posts"
+        "posts",
+        "advice-forum"
     ]
 
 # Global menu section
