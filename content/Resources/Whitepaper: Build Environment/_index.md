@@ -2,7 +2,7 @@
 title: "Carbon Re Whitepapers"
 draft: false
 ---
-[Built Environment: Carbon Re Whitepapers](https://carbonre.com/whitepapers/)
+###[Built Environment: Carbon Re Whitepapers](https://carbonre.com/whitepapers/)
 
 UK based AI for Materials company, Carbon Re have published a series of technical and white papers assessing approaches and recommendations relating to decarbonisation.
 
@@ -17,6 +17,6 @@ Investors should support the significant commercial opportunities for existing i
 
 This paper dives into how global standards and regulations are changing the game, setting new, greener rules for cement production. Whether it’s global bodies pushing for new eco-friendly standards or the introduction of carbon taxes and trading schemes, the standards and regulatory landscape is exerting enormous pressure on the cement industry.
 
-###[Carbon taxes set to revolutionise cement production](https://carbonre.com/carbon-taxes-set-to-revolutionise-cement-production/)
+### [Carbon taxes set to revolutionise cement production](https://carbonre.com/carbon-taxes-set-to-revolutionise-cement-production/)
 
 Carbon Re Co-Founder Buffy Price spoke at the ADViCE Launch event (December 2023) as part of our panel discussion. You can watch the launch event [online](https://www.youtube.com/watch?v=AqzKEXqrUb0). 
