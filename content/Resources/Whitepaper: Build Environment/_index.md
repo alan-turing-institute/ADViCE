@@ -12,7 +12,7 @@ Cement producers should focus their resources on the three groups of cost saving
 Policymakers need to remove barriers to decarbonization of cement resulting from poor regulations and policies, including overhauling the design of the European Union’s Emissions Trading Scheme, mandating low carbon cement procurement for publicly funded projects, and regularly updating standards for cement quality/ performance to reflect new product innovation.
 Investors should support the significant commercial opportunities for existing industry players, new entrants and technology providers.
 
-### Levers of Change
+### [Levers of Change](https://carbonre.com/levers-of-change)
 
 This paper dives into how global standards and regulations are changing the game, setting new, greener rules for cement production. Whether it’s global bodies pushing for new eco-friendly standards or the introduction of carbon taxes and trading schemes, the standards and regulatory landscape is exerting enormous pressure on the cement industry.
 
