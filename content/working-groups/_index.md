@@ -2,7 +2,6 @@
 title: "ADViCE Working Group"
 draft: false
 ---
-# ADViCE Working group
 
 The ADViCE Expert Working Group plays a critical role in bringing together key stakeholders across the UK’s AI for decarbonisation landscape, aligning perspectives from across AI development, government, regulation, decarbonisation innovation and academia.
 
