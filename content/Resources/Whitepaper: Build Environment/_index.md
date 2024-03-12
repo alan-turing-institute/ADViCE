@@ -1,5 +1,5 @@
 ---
-title: [Built Environment: Carbon Re Whitepapers](https://carbonre.com/whitepapers/)
+title: "[Built Environment: Carbon Re Whitepapers](https://carbonre.com/whitepapers/)"
 draft: false
 ---
 
