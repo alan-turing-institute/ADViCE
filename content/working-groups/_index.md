@@ -1,5 +1,5 @@
 ---
-title: "ADViCE Working Group"
+title: "ADViCE Expert Working Group"
 draft: false
 ---
 
