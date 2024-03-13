@@ -45,4 +45,3 @@ This grand challenge has several related sub-challenges (a full list of which ca
 * Challenge 32: Decentralised Market Solutions  
 * Challenge 66: Smart Building Control Systems  
 
-
