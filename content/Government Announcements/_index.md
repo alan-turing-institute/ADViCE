@@ -1,5 +1,5 @@
 ---
-title: "Government approach and relevant announcements"
+title: "UK Government Approach to AI for Decarbonisation"
 draft: false
 ---
 
