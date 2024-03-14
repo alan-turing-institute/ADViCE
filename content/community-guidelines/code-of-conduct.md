@@ -4,8 +4,6 @@ draft: false
 ---
 # Contributor Covenant Code of Conduct
 
-> Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
-
 This Code of Conduct document outlines our expectations for participants within the team as well as this online repository (ADViCE). We also provide steps to reporting any concern, uncomfortable situation or unacceptable behaviour by other participants. We are committed to providing a welcoming, collaborative and inspiring experience for all and expect our code of conduct to be honoured.
 
 ### Diversity Statement
