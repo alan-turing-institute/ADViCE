@@ -6,120 +6,67 @@ draft: false
 
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
 
-This Code of Conduct document outlines our expectations for 
-participants within the team as well as this online repository (project).
-We also provide steps to reporting any concern, uncomfortable situation 
-or unacceptable behaviour by other participants. 
-We are committed to providing a welcoming, collaborative and inspiring experience 
-for all and expect our code of conduct to be honoured.
-
-We have further adopted the language and content that reflects our values and needs in the project.
-To learn more about why we recommend creating a CODE_OF_CONDUCT.md file, please read the [Participation Guidelines](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-participation.html) chapter in *The Turing Way* Guide for Project Design.
-It is recommended to select and adapt a well established Code of Conduct. Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your project. 
-*The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
-<!--Delete these lines when reusing this repository-->
+This Code of Conduct document outlines our expectations for participants within the team as well as this online repository (ADViCE). We also provide steps to reporting any concern, uncomfortable situation or unacceptable behaviour by other participants. We are committed to providing a welcoming, collaborative and inspiring experience for all and expect our code of conduct to be honoured.
 
 ### Diversity Statement
 
-We encourage everyone to participate and are committed to building a project
-for all. Although we will fail at times, we seek to treat everyone both as
-fairly and equally as possible. Whenever a member has made a mistake, we
-expect them to take responsibility for it. If someone has been harmed or
-offended, it is our responsibility to listen carefully and respectfully, and do
-our best to right the wrong.
+We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a member has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
+Although this list cannot be exhaustive, we explicitly honour diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with any visible or invisible disabilities.
 
-Although this list cannot be exhaustive, we explicitly honour diversity in age,
-gender, gender identity or expression, culture, ethnicity, language, national
-origin, political beliefs, profession, race, religion, sexual orientation,
-socioeconomic status, and technical ability. We will not tolerate discrimination
-based on any of the protected characteristics above, including participants with
-any visible or invisible disabilities.
 
 ## Our Standards
 
-Examples of behaviour that contributes to a positive environment for our
-community include:
+Examples of behaviour that contributes to a positive environment for our community include:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+•	Demonstrating empathy and kindness toward other people
+•	Being respectful of differing opinions, viewpoints, and experiences
+•	Giving and gracefully accepting constructive feedback
+•	Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+•	Focusing on what is best not just for us as individuals, but for the overall community
 
 Examples of unacceptable behaviour include:
+•	Trolling, insulting or derogatory comments, and personal or political attacks
+•	Public or private harassment
+•	Publishing others’ private information, such as a physical or email address, without their explicit permission
+•	Other conduct which could reasonably be considered inappropriate in a professional setting
+•	The use of sexualised language or imagery, and sexual attention or advances of any kind
 
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-* The use of sexualised language or imagery, and sexual attention or
-  advances of any kind
 
 ## Scope
 
-This Code of Conduct applies to all members participating in the activities, 
-events and processes taking place within the scope of this repository. 
-Specifically, our Code of Conduct applies to any conduct:
-- in interactions within the team/community maintaining this repo
-- at any team activity, communication or event related to this repo
-- outside the team activity when a team member is representing this project
-- by members outside the team engaging on this GitHub repository.
+This Code of Conduct applies to all members participating in the activities, events and processes taking place within the scope of this repository. Specifically, our Code of Conduct applies to any conduct:
+•	in interactions within the team/community maintaining this repo
+•	at any team activity, communication or event related to this repo
+•	outside the team activity when a team member is representing this project
+•	by members outside the team engaging on this GitHub repository.
 
-This Code of Conduct also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-a representative at an online or offline event.
+This Code of Conduct also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed a representative at an online or offline event.
+
 
 ## Enforcement 
 
-Instances of harassing, abusive, or otherwise unacceptable behaviour should be
-reported to the community leaders responsible for enforcement.
-
+Instances of harassing, abusive, or otherwise unacceptable behaviour should be reported to the ADViCE project managers responsible for enforcement.
 All reports will be reviewed and investigated promptly and fairly.
+All managers are obligated to respect the privacy and security of the reporter of any incident. Together we strive to foster an environment where everyone feels valued, respected, and included.
+Managers are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective, restorative and action in response to any behaviour that they deem inappropriate, threatening, offensive, or harmful.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
-Together we strive to foster an environment where everyone feels valued, respected, and included.
-
-
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behaviour and will take appropriate and fair corrective, restorative and 
-action in response to any behaviour that they deem inappropriate, threatening, offensive,
-or harmful.
 
 ### Enforcement Responsibilities
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Managers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Reporting Incident
 
-If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting Francisco Gomez Medina (email: fgomezmedina@turing.ac.uk) or Gabin Kayumbi (email: gkayumbi@turing.ac.uk). Francisco and Gabin may involve Susie Costard <susie.costard@digicatapult.org.uk> ADViCE project manager when incidents are perceived 
-as difficult (not straightforward) except when any potential conflict of interest may arise.
+If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting Francisco Gomez Medina (email: fgomezmedina@turing.ac.uk) or Gabin Kayumbi (email: gkayumbi@turing.ac.uk). Francisco and Gabin may involve Susie Costard susie.costard@digicatapult.org.uk ADViCE project manager when incidents are perceived as difficult (not straightforward) except when any potential conflict of interest may arise.
 
-To report an issue involving either Francisco or Gabin, please email directly to Susie Costard <susie.costard@digicatapult.org.uk>. 
-
+To report an issue involving either Francisco or Gabin, please email directly to Susie Costard susie.costard@digicatapult.org.uk.
 In your report please include:
 
-- Your contact information.
-
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there
-  are additional witnesses, please include them as well. Your account of what
-  occurred, and if you believe the incident is ongoing. If there is a publicly
-  available record (e.g. a mailing list archive or a public IRC logger), please
-  include a link.
-
-- Any additional information that may be helpful.
-
+•	Your contact information.
+•	Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
+•	Any additional information that may be helpful.
 We will respect confidentiality requests all the time for the purpose of protecting individuals who have been harmed.
+
 
 ### Terminology
 
