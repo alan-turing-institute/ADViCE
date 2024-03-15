@@ -1,10 +1,10 @@
 ---
-title: "Code of Conduct"
+title: "Participation Guidelines"
 draft: false
 ---
 # Contributor Covenant Code of Conduct
 
-This Code of Conduct document outlines our expectations for participants within the team as well as this online repository (ADViCE). We also provide steps to reporting any concern, uncomfortable situation or unacceptable behaviour by other participants. We are committed to providing a welcoming, collaborative and inspiring experience for all and expect our code of conduct to be honoured.
+This Participation Guidelines document outlines our expectations for participants within the team as well as this ADViCE online repository. We also provide steps to reporting any concern, uncomfortable situation or unacceptable behaviour by other participants. We are committed to providing a welcoming, collaborative and inspiring experience for all and expect our Particiaption Guidelines to be honoured.
 
 ### Diversity Statement
 
@@ -14,7 +14,7 @@ Although this list cannot be exhaustive, we explicitly honour diversity in age, 
 
 ## Our Standards
 
-Examples of behaviour that contributes to a positive environment for our community include:
+Examples of behaviour that contributes to a positive environment include:
 
 •	Demonstrating empathy and kindness toward other people
 •	Being respectful of differing opinions, viewpoints, and experiences
@@ -33,30 +33,31 @@ Examples of unacceptable behaviour include:
 
 ## Scope
 
-This Code of Conduct applies to all members participating in the activities, events and processes taking place within the scope of this repository. Specifically, our Code of Conduct applies to any conduct:
+This Participation Guidelines applies to everyone using this online resource. Specifically, our Particiaption Guidelines applies to any conduct:
 •	in interactions within the team/community maintaining this repo
 •	at any team activity, communication or event related to this repo
 •	outside the team activity when a team member is representing this project
 •	by members outside the team engaging on this GitHub repository.
-This Code of Conduct also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed a representative at an online or offline event.
+This Participation Guidelines also applies when an individual is officially representing ADViCE in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed a representative at an online or offline event.
 
 
 ## Enforcement 
 
-Instances of harassing, abusive, or otherwise unacceptable behaviour should be reported to the ADViCE project managers responsible for enforcement.
+Instances of harassing, abusive, or otherwise unacceptable behaviour should be reported to the ADViCE website and Knowledge Base administrators.
 All reports will be reviewed and investigated promptly and fairly.
-All managers are obligated to respect the privacy and security of the reporter of any incident. Together we strive to foster an environment where everyone feels valued, respected, and included.
-Managers are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective, restorative and action in response to any behaviour that they deem inappropriate, threatening, offensive, or harmful.
+Together we strive to foster an environment where everyone feels valued, respected, and included.
+Admininstrators are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective, restorative and action in response to any behaviour that they deem inappropriate, threatening, offensive, or harmful.
 
 
 ### Enforcement Responsibilities
 
-Managers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+Administratos have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Reporting Incident
 
-If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting Francisco Gomez Medina (email: fgomezmedina@turing.ac.uk) or Gabin Kayumbi (email: gkayumbi@turing.ac.uk). Francisco and Gabin may involve Susie Costard susie.costard@digicatapult.org.uk ADViCE project manager when incidents are perceived as difficult (not straightforward) except when any potential conflict of interest may arise.
-To report an issue involving either Francisco or Gabin, please email directly to Susie Costard susie.costard@digicatapult.org.uk.
+If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting Francisco Gomez Medina (email: fgomezmedina@turing.ac.uk) or Gabin Kayumbi (email: gkayumbi@turing.ac.uk).  
+To report an issue involving either Francisco or Gabin, please email directly to abudden@turing.ac.uk
+
 In your report please include:
 •	Your contact information.
 •	Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
@@ -71,8 +72,8 @@ We will respect confidentiality requests all the time for the purpose of protect
 
 ## Report Handling Process
 
-After receiving a report, the project manager (or person handling the report), will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
-The project Managers will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context. The project Manager will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
+After receiving a report, the person handling the report will review the incident report and follow this process to determine the cause and consequences that violated this Participation Guidelines and take further actions:
+The administrators will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context. The administrators will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
 A meeting with the reportee will be scheduled where the person handling the report will discuss four questions:
 •	What happened?
 •	What were you thinking at the time?
@@ -92,12 +93,12 @@ Here are examples of possible resolutions to a report. This list is not comprehe
 •	a private communication from the project manager, providing clarity around the nature of the violation and an explanation of why the behaviour was inappropriate.
 •	an apology to the person harmed or the team as a whole
 •	an action plan for the reportee to improve their awareness and correct future behaviours
-•	if confirmed by the person reporting, reportee will have no interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels like social media.
-•	not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
+•	if confirmed by the person reporting, reportee will have no interaction with the people involved, including unsolicited interaction with those enforcing the Participation Guidelines, for a specified period. This includes avoiding interactions in community spaces as well as external channels like social media.
+•	not publishing the content that violated the Participation Guidelines, until necessary changes have been made and agreed upon by the person handling the report.
 •	An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity.
 •	a stronger warning with consequences for continued behaviour.
 
-The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
+The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Participation Guidelines for future participation.
 Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. They will ask if this resolution is acceptable and must note feedback for the record. However, they are not required to act on this feedback.
 The reportee will be contacted via email informing them of the resolution. A final meeting may be conducted if necessary.
 
@@ -108,7 +109,7 @@ All reports will be kept confidential with details shared only with people invol
 
 ## Attribution
 
-This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/), [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and [Contributor Covenant
+This Participation Guidelines is inspired from the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/), [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and [Contributor Covenant
 version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
 The report handling process has been derived from the Eastern University 
