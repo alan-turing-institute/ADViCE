@@ -1,6 +1,5 @@
 ---
 title: "Participation Guidelines"
-draft: false
 ---
 # Contributor Covenant Participation Guidelines
 
