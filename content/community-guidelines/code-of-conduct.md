@@ -2,7 +2,7 @@
 title: "Participation Guidelines"
 draft: false
 ---
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Participation Guidelines
 
 This Participation Guidelines document outlines our expectations for participants within the team as well as this ADViCE online repository. We also provide steps to reporting any concern, uncomfortable situation or unacceptable behaviour by other participants. We are committed to providing a welcoming, collaborative and inspiring experience for all and expect our Particiaption Guidelines to be honoured.
 
