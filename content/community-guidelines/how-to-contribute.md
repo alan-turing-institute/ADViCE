@@ -1,6 +1,5 @@
 ---
-title: "How to Contribute"
-draft: false
+"How to Contribute"
 ---
 # Community Guidelines
 
