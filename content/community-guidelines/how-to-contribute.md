@@ -1,17 +1,7 @@
----
-title: "How to Contribute"
-draft: false
----
-# Community Guidelines
+# Guidelines
 
 Thank you for taking the time to contribute to this project. 🎉
-
-The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
-
-This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
-You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
-
-We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to this project.
+We have these [Participation Guidelines](./participation-guidelines.md) that apply to all the activities related to this project.
 
 ⭐️ You are acknowledged for all kinds of contributions
 ---
@@ -36,11 +26,10 @@ You can also share this repository with someone who might be interested to get i
 You can read our [README](./README.md) file to find details and the next milestones in the project.
 You can also read different issues in this repository and comment where you would like to be involved.
 
-🎉 It's my life's mission to enable reproducibility in data science and research
+🎉 It's my professional interests to work on topics related to AI for decarbonisation  
 ---
 
-Please share feedback on the contents proposed for setting up an online collaborative repository for data science and research.
-You are encouraged to review the material as we collaboratively develop them and get involved where you can.
+Please share feedback on the contents proposed. You are encouraged to review the material as we collaboratively develop them and get involved where you can.
 Please open a GitHub issue to suggest a new topic, contribute code, or let us know about errors/bugs.
 
 🛠 I am ready to contribute 
@@ -53,10 +42,18 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
   - Start work on a contribution that is already listed as an issue or something you’ve already discussed
   - A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
+How to contribute: technical details
+---
+
+For more detailed instructions on How to Contribute, and guiding tutorials, please check out *[This document](https://hackmd.io/1rOVdqk0RzOseN-Dj9pr4A#Setting-up-the-Knowledge-Base)*.
+
+
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to ** Susie Costard by emailing [susie.costard@digicatapult.org.uk](mailto:susie.costard@digicatapult.org.uk)**.
+For any organisation related queries or concerns, you can directly reach out to:
+- ** Gabin Kayumbi by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk)**.
+- ** Francisco Gomez Medina by emailing [fgomezmedina](mailto:fgomezmedina@turing.ac.uk)**.
 
 ♻️ License
 ---
@@ -68,5 +65,3 @@ as long as you provide attribution (give appropriate credit, provide a link to t
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions.
 <!--Replace these sentences to appropriate reflect the license chosen in your project-->
-
-For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
