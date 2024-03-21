@@ -12,6 +12,8 @@ You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji
 To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
 `@all-contributors please add @<username> for <keyword in the Type column>`
 
+
+
 ## Whatever is your availability, there is a way to contribute to this GitHub repository.
 
 👋 I'm busy, I only have 5 minute
@@ -55,4 +57,7 @@ For any organisation related queries or concerns, you can directly reach out to:
 - ** Gabin Kayumbi by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk)**.
 - ** Francisco Gomez Medina by emailing [fgomezmedina](mailto:fgomezmedina@turing.ac.uk)**.
 
+Privacy Notice
+---
 
+Your details will be used to add you to our mailing list and receive communications about the ADViCE Project. Your data will be shared with our partners on the project, Energy Catapult and Digital Catapult, who may also contact you about the project. For more information about how we process your data please see the Turing Privacy Notice [here](https://www.turing.ac.uk/privacy-policy). You can view the Energy Catapult privacy notice [here](https://es.catapult.org.uk/privacy-policy/) and Digital Catapult privacy notice [here](https://www.digicatapult.org.uk/legal/privacy-policy/).
