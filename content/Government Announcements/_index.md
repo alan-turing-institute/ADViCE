@@ -1,9 +1,9 @@
 ---
-title: "Government approach and relevant announcements"
+title: "UK Government Approach to AI for Decarbonisation"
 draft: false
 ---
 
-Net zero remains a priority across the UK’s innovation and policy landscape. Despite being in the top 20 countries for pollution globally, in 2022 the UK ranked second (behind Norway) for its ability to achieve its 2050 net zero emissions target.29 Aligned with the UK’s ambition to become a global science and technology superpower, it is clear that net zero and AI policies are playing a critical role in the UK’s positioning and priorities on the global stage. 
+Net zero remains a priority across the UK’s innovation and policy landscape. Despite being in the top 20 countries for pollution globally, in 2022 the UK ranked second (behind Norway) for its ability to achieve its 2050 net zero emissions target. Aligned with the UK’s ambition to become a global science and technology superpower, it is clear that net zero and AI policies are playing a critical role in the UK’s positioning and priorities on the global stage. 
 
 In the broader innovation landscape, the UK has established itself as a key global player for the responsible and safe use of AI technologies. Since 2014, it has invested more than £2.3 billion into AI, across a range of R&D and innovation initiatives. The UK is also positioning itself as a leader in safe AI systems and their deployment, with the Bletchley Declaration aimed at ensuring wider international cooperation on harnessing responsible AI for good. The UK’s National AI Strategy, published in 2021, responds directly to the widening adoption of AI technologies. It lays out a scope of actions to ensure that maximum benefits are achieved for every sector and region in the economy, as well as delivering excellence in AI innovation while prioritising the safety, security, choices and rights of UK citizens.
 
