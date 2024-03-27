@@ -10,6 +10,7 @@ emissions. Reducing these emissions is critical, whether through shifting to low
 # Webinar
 
 **Zero Carbon Farms of the Future**
+
 *Wednesday 10 April 2024, 10.00-11.30*
 
 In this webinar, we will discuss the transformative potential of AI-driven solutions for optimizing energy usage and enhancing productivity in controlled 
