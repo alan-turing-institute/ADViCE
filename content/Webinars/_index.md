@@ -1,6 +1,7 @@
 ---
 title: "ADViCE Webinars"
 draft: false
+weight: 2
 ---
 The ADViCE consortium is delivering a webinar series that responds to the 7 critical decarbonisation challenges outlined in the project’s [recent report](https://www.turing.ac.uk/sites/default/files/2023-12/advice-_ai_for_decarbonisation_challenges.pdf). These include: 
 
