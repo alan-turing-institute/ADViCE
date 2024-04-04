@@ -1,7 +1,16 @@
 ---
-title: "AI for Decarbonisation’s Virtual Centre of Excellence"
+title: "Knowledge Base of the AI for Decarbonisation’s Virtual Centre of Excellence"
 draft: false
 ---
+# About the Knowledge Base
+This Knowledge Base is a collection of resources and content created by the ADViCE team. The content is specifically related to the usage of AI for decarbonising high-emitting industries. These resources include items such as:
+- ADViCE reports.
+- ADViCE webinar recordings and event descriptions.
+- ADViCE challenge cards.
+- Other resources, such as working group reports and analysis pieces on new AI for Decarbonisation legislation and governance.
+- A discussion forum (soon to be released).
+
+The content is available for access and usage under a Creative Commons Attribution 4.0 International Public License. You can read more about the permissions and limitations of this license [here](https://alan-turing-institute.github.io/ADViCE/community-guidelines/license/)
 # ADViCE
 ADViCE is aimed at the development of innovative artificial intelligence technologies for decarbonisation applications to support the transition to Net Zero.
 
