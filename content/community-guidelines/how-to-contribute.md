@@ -1,3 +1,7 @@
+---
+title: "How to Contribute"
+draft: false
+---
 # Guidelines
 
 Thank you for taking the time to contribute to this project. 🎉
