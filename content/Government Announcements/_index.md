@@ -1,6 +1,7 @@
 ---
 title: "UK Government Approach to AI for Decarbonisation"
 draft: false
+weight: 7
 ---
 
 Net zero remains a priority across the UK’s innovation and policy landscape. Despite being in the top 20 countries for pollution globally, in 2022 the UK ranked second (behind Norway) for its ability to achieve its 2050 net zero emissions target. Aligned with the UK’s ambition to become a global science and technology superpower, it is clear that net zero and AI policies are playing a critical role in the UK’s positioning and priorities on the global stage. 
