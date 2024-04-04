@@ -1,7 +1,7 @@
 ---
 title: "Investment and Funding"
 draft: false
-weight: 5
+weight: 500
 ---
 While the AI and decarbonisation markets are both growing in size and importance, innovation where the two meet is much less than in other areas where AI is being adopted more readily. Currently, IT, telecommunications and legal are showing the highest rates of AI adoption in the UK.
 

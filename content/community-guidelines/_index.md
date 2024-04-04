@@ -1,7 +1,7 @@
 ---
 title: "Community Guidelines"
 draft: false
-weight: 8
+weight: 900
 ---
 About page
 
