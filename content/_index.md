@@ -1,7 +1,6 @@
 ---
 title: "Knowledge Base of the AI for Decarbonisation’s Virtual Centre of Excellence"
 draft: false
-weight: 4
 ---
 # About the Knowledge Base
 This Knowledge Base is a collection of resources and content created by the ADViCE team. The content is specifically related to the usage of AI for decarbonising high-emitting industries. These resources include items such as:
