@@ -1,6 +1,6 @@
 baseURL = 'https://alan-turing-institute.github.io/ADViCE/content/'
 languageCode = 'en-us'
-title = 'ADViCE'
+title = 'ADViCE Knowledge Base'
 theme = 'hugo-theme-techdoc'
 # RelativeURLs=true
 
