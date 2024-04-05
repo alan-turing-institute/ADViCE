@@ -1,5 +1,5 @@
 ---
-title: "AI for Decarbonisation Escosystem"
+title: "AI for Decarbonisation Ecosystem"
 draft: false
 ---
 
