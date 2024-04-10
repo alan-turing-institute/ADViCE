@@ -33,7 +33,7 @@ Examples of unacceptable behaviour include:
 
 ## Scope
 
-This Participation Guidelines applies to everyone using this online resource. Specifically, our Particiaption Guidelines applies to any conduct:
+This Participation Guidelines applies to everyone using this online resource. Specifically, our Participation Guidelines applies to any conduct:
 •	in interactions within the team/community maintaining this repo
 •	at any team activity, communication or event related to this repo
 •	outside the team activity when a team member is representing this project
