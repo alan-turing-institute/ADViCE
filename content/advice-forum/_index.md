@@ -11,4 +11,4 @@ ADViCE has a [forum](https://github.com/alan-turing-institute/ADViCE/discussions
 
 You can access the ADViCE forum [here](https://github.com/alan-turing-institute/ADViCE/discussions)
 
-Before posting, please read our forum participation guidelines. This will ensure the forum remains a productive and useful space!
+Before posting, please read our [forum participation guidelines](https://alan-turing-institute.github.io/ADViCE/advice-forum/forum-contribution-guidelines/). This will ensure the forum remains a productive and useful space!
