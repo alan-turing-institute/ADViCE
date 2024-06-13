@@ -38,5 +38,12 @@ Our lineup of expert speakers share their insights and experiences through the f
 - Eri Hayashi – President, Japan Plant Factory Association
 - Adam Waterman – Chief Software Architect, LettUs Grow 
 
-[Event website and how to register](https://www.turing.ac.uk/events/zero-carbon-farms)
+[Event website](https://www.turing.ac.uk/events/zero-carbon-farms)
 
+## Webinar 
+
+The recording of the webinar can be found below. 
+
+[![ZeroCarbonFarmsWebinar](https://img.youtube.com/vi/-g6X5d4_GYI/maxresdefault.jpg)](https://www.youtube.com/watch?v=-g6X5d4_GYI)
+
+[YouTube Webinar Recording](https://www.youtube.com/watch?v=-g6X5d4_GYI)
