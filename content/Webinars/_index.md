@@ -19,8 +19,10 @@ Challenge overview: Many manufacturing processes rely on carbon intensive fuels 
 or raw materials. Decarbonising manufacturing requires a wholesale redesign of processes and products to use low carbon inputs, but this is complex and costly.
 
 ## Unlocking Domestic Decarbonisation
-Challenge overview: Decarbonising homes requires changes to both heating systems and
-consumer behaviours in every home in the UK. Engaging consumers in that process, financing it, and delivering it at pace are all major challenges.
+
+Find link to the webinar recording [here](https://www.youtube.com/watch?v=3KW-IynOUw4&t=1s).
+
+Challenge overview: Decarbonising homes requires changes to both heating systems and consumer behaviours in every home in the UK. Engaging consumers in that process, financing it, and delivering it at pace are all major challenges.
 
 ## Optimising Soil Management
 Challenge overview: In agriculture, soil is a major source of emissions – as well as a potential route to carbon sequestration. Optimising the management of soil health from an emissions perspective is a key challenge.
