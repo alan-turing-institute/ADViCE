@@ -19,7 +19,7 @@ theme = 'hugo-theme-techdoc'
 
     # Analytic section
     # google_analytics_id = "G-9ERXBZX5HX" # Your Google Analytics tracking id
-    # tag_manager_container_id = "G-9ERXBZX5HX" # Your Google Tag Manager container id
+    # tag_manager_container_id = "" # Your Google Tag Manager container id
     # google_site_verification = "" # Your Google Site Verification for Search Console
 
     # Open Graph and Twitter Cards settings section
