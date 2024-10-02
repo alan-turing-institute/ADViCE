@@ -18,9 +18,9 @@ theme = 'hugo-theme-techdoc'
     github_doc_repository_branch = "main"
 
     # Analytic section
-    # google_analytics_id = "G-9ERXBZX5HX" # Your Google Analytics tracking id
-    # tag_manager_container_id = "" # Your Google Tag Manager container id
-    # google_site_verification = "" # Your Google Site Verification for Search Console
+    google_analytics_id = "G-9ERXBZX5HX" # Your Google Analytics tracking id
+    # tag_manager_container_id = "AAAAAAAAAA" # Your Google Tag Manager container id
+    # google_site_verification = "AAAAAAAAAAAAAAAAAAAAA" # Your Google Site Verification for Search Console
 
     # Open Graph and Twitter Cards settings section
     # Open Graph settings for each page are set on the front matter.
