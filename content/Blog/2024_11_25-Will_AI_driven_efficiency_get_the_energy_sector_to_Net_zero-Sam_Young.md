@@ -2,8 +2,9 @@
 title: "Will AI-driven efficiency get the energy sector to Net Zero?"
 draft: false
 ---
-## 25 November 2024
-## Sam Young
+**25 November 2024
+Sam Young**
+
 Organisations in every sector are embracing AI to improve efficiency and reduce operating costs. If we’re aiming for decarbonisation then that misses the point.
  
 Operating costs are seldom the sticking point holding us back from accelerating to Net Zero. High operating costs aren’t why the UK is failing to meet its heat pump installation targets. High operating costs aren’t why it takes over a decade to connect a wind farm to the electricity network. High operating costs aren’t why it is costing us more and more to balance the electricity network. AI can be used to accelerate us to Net Zero, but we need to apply it to the things that are actually slowing us down.
