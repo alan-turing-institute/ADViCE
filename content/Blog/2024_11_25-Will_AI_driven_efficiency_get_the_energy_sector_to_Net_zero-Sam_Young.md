@@ -2,9 +2,9 @@
 title: "Will AI-driven efficiency get the energy sector to Net Zero?"
 draft: false
 ---
-**25 November 2024**
+**Sam Young** | **25 November 2024**
 
-**Sam Young**
+
 
 Organisations in every sector are embracing AI to improve efficiency and reduce operating costs. If we’re aiming for decarbonisation then that misses the point.
  
