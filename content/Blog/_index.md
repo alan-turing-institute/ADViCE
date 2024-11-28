@@ -1,5 +1,5 @@
 ---
-title: "AVDiCE Blog"
+title: "ADViCE Blog"
 draft: false
 ---
 This blog contains entries and thoughts from the ADViCE network. If you would like to contribute a blog piece, please email Francisco Gomez Medina at fgomezmedina@turing.ac.uk with a short description of what you intend to write.
