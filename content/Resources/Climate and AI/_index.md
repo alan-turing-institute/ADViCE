@@ -32,4 +32,13 @@ UK based AI for Materials company, Carbon Re have published a series of [technic
 
 Carbon Re Co-Founder Buffy Price spoke at the ADViCE Launch event (December 2023) as part of our panel discussion. You can watch the launch event online [here](https://www.youtube.com/watch?v=AqzKEXqrUb0).
 
+## Artificial Intelligence for Climate Change Mitigation Roadmap
+In November 2024, Innovation for Cool Earth Forum (ICEF) have released [the second edition]( https://www.icef.go.jp/wp-content/uploads/2024/11/ICEF-AI-Climate-Roadmap-Second-Edition-2024.pdf) of their AI for Climate Change Mitigation roadmap. The comprehensive report looks at how AI can help cut emissions of greenhouse gases. In addition to providing recommendations, they explore eight sectors in which AI is helping respond to climate change (including power systems, manufacturing and the building sector) and also look at crosscutting issues such as large language models and greenhouse gas emissions from AI. 
+
+## Generative AI for Power Grid Operations – NREL
+The US National Renewable Energy Laboratory (NREL) have released [a report]( https://www.nrel.gov/docs/fy25osti/91176.pdf ) on generative AI for power grid operations which reviews potential applications
+
+## Department of Energy, AI in Energy Reports 2024
+As directed by the US Executive Order 14110, Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the U.S. Department of Energy, produced [a report on the priority use cases](https://www.energy.gov/sites/default/files/2024-04/AI%20EO%20Report%20Section%205.2g%28i%29_043024.pdf) have been identified in four broad areas where AI can be immediately deployed to improve the grid. These areas include grid planning, siting and permitting of clean energy infrastructure, grid operations and reliability, and grid resilience. The report also looks at broader areas for AI to support the green energy economy including transport, buildings, manufacturing and industry, and agriculture. 
+In addition to the above report, there is a complementary [AI for Energy report]( https://www.anl.gov/ai/reference/ai-for-energy-report-2024) produced by the Argonne National Laboratory looks further ahead at advanced research challenges focusing in five key areas, nuclear, power grid, carbon management, energy storage, and energy materials.  
 
