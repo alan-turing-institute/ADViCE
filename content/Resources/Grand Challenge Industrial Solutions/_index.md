@@ -3,7 +3,7 @@ title: "Grand Challenge Industrial Solutions"
 draft: false
 ---
 
-This section will highlight examples of some organisations which are utilising AI in applications related to the grand challenge areas.
+This section will highlight examples of some organisations which are utilising AI in applications related to the [grand challenge areas](https://www.turing.ac.uk/sites/default/files/2023-12/advice-_ai_for_decarbonisation_challenges.pdf).
 ## Unlocking Domestic Decarbonisation
 The following organisations produce products for **smart home heating** including preheating, radiator values, and zonal control:
 * [Drayton](https://www.draytoncontrols.co.uk/about): part of [Schneider Electric](https://www.se.com/uk/en/home/smart-home/wiser/heating-control/)
