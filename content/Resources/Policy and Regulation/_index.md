@@ -18,6 +18,9 @@ Governments around the world are increasingly considering the harms of AI and ho
   4. Accountability and governance
   5. Contestability and redress
  
+## White Papers
+The following is some papers on regulation and governance for AI in decarbonisation areas:
+* A Global Partnership on AI [Report](https://www.gpai.ai/projects/climate-change-and-ai.pdf) in collaboration with Climate Change AI and the Centre for AI & Climate Change shares insights and recommendations for government action for apply AI to mitigate climate change. This includes areas of funding, data and digital infrastructure, and policy design.
 
 ## Algorithmic Governance
 
