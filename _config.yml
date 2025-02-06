@@ -18,9 +18,9 @@ title: ADViCE Knowledge Base
 masthead_title: "|"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ADViCE is dedicated to innovative AI technologies to support the transition to Net Zero. 
+  This site is a collection of resources produced by the ADViCE team, related to the usage of AI for decarbonising high-emitting industries. 
+  In here, you will find ADViCE reports, webinars, white papers, blog posts, and much more.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
