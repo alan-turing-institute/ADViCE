@@ -22,9 +22,9 @@ feature_row:
     url: "/reports/AI_for_decarbonisation"
     btn_label: "Read the report"
     btn_class: "btn--primary"
-  - image_path: /assets/images/enhancing-cyber-offshore-report-thumbnail.png
-    title: "Enhancing the Cyber Resilience of Offshore Wind"
-    url: "/reports/enhancing_cyber_resilience_offshore_wind"
+  - image_path: /assets/images/ewg-1-thumbnail.png
+    title: "AI for Decarbonisation Policy and Regulation Alignment"
+    url: "https://www.turing.ac.uk/sites/default/files/2024-10/advice_-_policy_and_regulation_alignment_whitepaper_-_v5_-_selected_external_parties_only_2.pdf"
     btn_label: "Read the report"
     btn_class: "btn--primary"
 ---
