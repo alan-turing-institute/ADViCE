@@ -8,7 +8,7 @@ permalink: /resources/data-resources
 author_profile: false
 collection: resources
 ---
-Below we have collated some core data sources and curated data lists which may be useful for research and innovators in decarbonisation research.
+This is a collection of core data sources and curated data lists which may be useful for research and innovators in decarbonisation research.
 
 ## Energy Sector
 

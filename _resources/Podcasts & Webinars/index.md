@@ -8,6 +8,7 @@ permalink: /resources/podcasts-and-webinars
 author_profile: false
 collection: resources
 ---
+A list of additional talks, podcasts and webinars related to the use of AI for decarbonisation.
 
 In addition to the webinars which will be created as part of the ADViCE programme (see [here](https://alan-turing-institute.github.io/ADViCE/webinars/)) there are other useful talks, podcasts and webinars for AI in decarbonisation which may be of interest:
 

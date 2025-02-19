@@ -9,7 +9,10 @@ author_profile: false
 collection: resources
 ---
 
+Resources to ensure the safe and ethical deployment of AI for addressing decarbonisation challenges. 
+
 As more personal and sensitive data is collected for uses in decarbonisation, there is an increased risk to privacy and security. Data and AI methods also contain bias which can be perpetuated or worsened, causing harms to vulnerable groups and individuals, and may increase risks of discrimination.
+
 Below are some useful resources in this area. 
 
 ## Data Ethics and Bias in Smart Local Energy Systems

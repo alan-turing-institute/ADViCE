@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
 
+
 feature_row:
   - image_path: assets/images/ai-for-decarb-challenges-report-thumbnail.png
     alt: "AI for Decarbonisation Challenges"

@@ -8,7 +8,9 @@ permalink: /webinars/zero-carbon-farms-of-the-future
 author_profile: false
 collection: webinars
 ---
-# Challenge Overview
+
+Methane emissions from livestock are a major contributor to global emissions. We explore approaches to reduce methane, such as shifting to low-meat diets or more carbon-conscious livestock management. 
+
  
 This webinar relates to the grand challenge 7 (GC7) **Minimising Methane in Agriculture**. Methane emissions from livestock are a major contributor to global 
 emissions. Reducing these emissions is critical, whether through shifting to low-meat diets or more carbon-conscious livestock management. 

@@ -1,5 +1,6 @@
 ---
 title: Resources
+excerpt: "A continuously growing collection of resources related to the use of AI to address decarbonisation challenges"
 layout: collection
 permalink: /resources/
 collection: resources

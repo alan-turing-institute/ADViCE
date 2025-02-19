@@ -9,6 +9,7 @@ author_profile: false
 collection: resources
 ---
 
+A list of newsletters which focus on topics at the intersection of AI and decarbonisation.
 
 AI is moving at a rapid rate and newsletters are some of the best ways to keep abreast of some of the latest developments and technologies to keep an eye on. The following are newsletters which focus on topics within the intersection of AI and decarbonisation:
 

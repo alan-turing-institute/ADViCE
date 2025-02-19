@@ -8,8 +8,9 @@ permalink: /webinars/decarbonising-manufacturing-inputs
 author_profile: false
 collection: webinars
 ---
-# Overview
  
+We explore the AI tools available for decarbonising manufacturing. Topics include the design of low-carbon manufacturing processes, implementation of onsite renewables and storage solutions, as well as carbon accounting and modelling.
+
 Manufacturing processes are a significant contributor to global GHG emissions, with heavy industry responsible for nearly 40% of global CO2 emissions.
 
 However, the task of decarbonising manufacturing is complex and costly, often requiring a complete overhaul of production processes and finding low-carbon alternatives for feedstocks and raw materials.

@@ -8,9 +8,9 @@ permalink: /resources/governance-and-regulation-for-AI
 author_profile: false
 collection: resources
 ---
+A list of resources which look at some approaches, and investigations into AI policy and regulation for decarbonisation.
 
-
-As AI becomes more and more prominant in the daily lives or individuals and organisations, there is a need to ensure the correct policies and regulation are in place to reduce harms. Below is some resources which look at some approaches, and investigations into AI policy and regulation. 
+As AI becomes more and more prominent in the daily lives or individuals and organisations, there is a need to ensure the correct policies and regulation are in place to reduce harms. Below is some resources which look at some approaches, and investigations into AI policy and regulation. 
 
 ## General Approaches
 

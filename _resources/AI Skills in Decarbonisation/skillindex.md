@@ -9,7 +9,9 @@ author_profile: false
 collection: resources
 ---
 
-A major blocker for deploying AI at scale for decarbonisation challenges is ensuring there are enough skills to properly develop, deploy and operate the algorithms safely, optimally and with minimal bias. 
+Resources to develop, deploy and operate AI for decarbonisation safely, optimally and with minimal bias. 
+
+A major blocker for deploying AI at scale for decarbonisation is ensuring skills availability to develop, deploy and operate safely, optimally and with minimal bias. 
 
 ## AI Skills in the Energy Sector - A Survey
 

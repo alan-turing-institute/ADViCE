@@ -8,7 +8,7 @@ permalink: /resources/software-and-tools
 author_profile: false
 collection: resources
 ---
-Below are some open source tools to support AI and data-driven research and innovation in decarbonisation research:
+Open source tools to support AI and data-driven research and innovation in decarbonisation.
 
 * **[Open Sustainable Technology](https://opensustain.tech/)** is a curated list of open source models for energy systems, renewable energy, storage, consumption, emissions and climate modelling among others. The tools include data estimators, datasets, forecasts, asset modelling, cost estimators, etc.
 * **[OpenSTEF](https://lfenergy.org/projects/openstef/)** an LF Energy open source machine learning pipeline for short-term load forecasting for energy networks.

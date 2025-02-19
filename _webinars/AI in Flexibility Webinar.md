@@ -9,9 +9,9 @@ author_profile: false
 collection: webinars
 ---
 
-# Flexibility in Energy Systems Webinar
+This webinar focuses on the challenge on using AI to support energy system flexibility. 
 
-The first webinar in the ADViCE webinar series focused on the challenge on using AI to support energy system flexibility. This was one of the grand decarbonisation challenges as outlined in the project’s [recent report](https://www.turing.ac.uk/sites/default/files/2023-12/advice-_ai_for_decarbonisation_challenges.pdf). 
+This was one of the grand decarbonisation challenges as outlined in the project’s [recent report](https://www.turing.ac.uk/sites/default/files/2023-12/advice-_ai_for_decarbonisation_challenges.pdf). 
 
 ## Challenge Overview
 

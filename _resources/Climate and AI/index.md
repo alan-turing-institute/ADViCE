@@ -8,7 +8,7 @@ author_profile: false
 collection: resources
 ---
 
-There are many other resources concerning the general use of AI for decarbonisation. Below are links to additional resource lists which may be of interest.
+A set of additional resources on the use of AI for decarbonisation.
 
 ## Bezos Earth Fund - AI for Climate and Nature Grand Challenge
 

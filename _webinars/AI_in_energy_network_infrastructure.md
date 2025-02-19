@@ -9,7 +9,9 @@ author_profile: false
 collection: webinars
 ---
 
-The seventh and final webinar in the ADViCE series focuses on the challenge on building and connecting new infrastructure to our energy networks. This was one of the grand decarbonisation challenges as outlined in the projects [recent report](https://www.turing.ac.uk/sites/default/files/2023-12/advice-_ai_for_decarbonisation_challenges.pdf).
+This webinar focuses on the challenge of building and connecting new infrastructure to our energy networks. 
+
+This was one of the grand decarbonisation challenges as outlined in the projects [recent report](https://www.turing.ac.uk/sites/default/files/2023-12/advice-_ai_for_decarbonisation_challenges.pdf).
 
 ## Challenge Overview
 
