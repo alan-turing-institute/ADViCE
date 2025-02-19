@@ -10,3 +10,9 @@ author_profile: false
 ---
 
 Read the report [here](https://www.turing.ac.uk/sites/default/files/2024-10/advice_-_policy_and_regulation_alignment_whitepaper_-_v5_-_selected_external_parties_only_2.pdf)
+
+<iframe class="pdf" 
+                src=
+"https://www.turing.ac.uk/sites/default/files/2024-10/advice_-_policy_and_regulation_alignment_whitepaper_-_v5_-_selected_external_parties_only_2.pdf"
+            width="800" height="800">
+</iframe>

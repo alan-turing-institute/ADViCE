@@ -11,12 +11,20 @@ author_profile: false
 
 [Download the full report here](https://www.turing.ac.uk/sites/default/files/2023-12/advice_-_ai_for_decarbonisation_ecosystem.pdf)
 
+
 This report (2023) provides insights into, and an overview of, the AI for decarbonisation R&D and innovation landscape in the UK. It captures key use cases, organisations, projects and trends to inform government and policymakers, academia, industry and investors.
 
 It sets the foundations for further work in this burgeoning area; identifying critical gaps and market opportunities that will be the basis for the remainder of the ADViCE project, providing a set of recommendations for future activity and looking at future avenues for further investment and growth.
 
 Authors: Vicki Williams, Rachel Hugonin and Sugar Day - Digital Catapult
 
+<iframe class="pdf" 
+                src=
+"https://www.turing.ac.uk/sites/default/files/2023-12/advice_-_ai_for_decarbonisation_ecosystem.pdf"
+            width="800" height="800">
+</iframe>
+
+<!--
 ## Chapter Breakdown
 
 Executive summary + Introduction
@@ -47,3 +55,4 @@ Conclusion: Interventions & Recommendations
    - Enable place-based opportunities
 - Cross-technology decarbonisation exploration
   - In the context of the UK’s cyber-physical infrastructure vision, further investment from the UK Government and industry in cross-technology adoption and use case exploration for decarbonisation.
+  -->
