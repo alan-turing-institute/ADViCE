@@ -1,5 +1,5 @@
 ---
-title: "Data can support immediate emissions reductions"
+title: "Data can Support Immediate Emissions Reductions"
 excerpt_separator: "<!--more-->"
 classes: wide
 author_profile: false
