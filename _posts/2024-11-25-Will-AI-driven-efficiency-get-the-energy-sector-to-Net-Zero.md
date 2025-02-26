@@ -1,5 +1,5 @@
 ---
-title: "Will AI-driven efficiency get the energy sector to Net Zero?"
+title: "Will AI-driven Efficiency Get the Energy Sector to Net Zero?"
 excerpt_separator: "<!--more-->"
 classes: wide
 author_profile: false
