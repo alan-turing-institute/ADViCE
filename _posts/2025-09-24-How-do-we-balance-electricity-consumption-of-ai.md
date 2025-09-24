@@ -1,0 +1,64 @@
+---
+title: "How do we minimise the electricity consumption of AI? Balancing Innovation and Environmental Stewardship"
+#excerpt_separator: "<!--more-->"
+classes: wide
+author_profile: false
+categories:
+  - Blog
+---
+
+- **Tom Jackson, Professor of Information and Knowledge Management at Loughborough Business School, Loughborough University**
+- **Ian Hodgkinson, Professor of Strategy, Loughborough University**
+
+The need for global Artificial Intelligence (AI) guardrails was established in May 2023, when G7 Leaders identified priority topics in the ‘Hiroshima Artificial Intelligence Process’. As part of the stocktaking of opportunities and challenges related to generative AI, the subsequent [OECD report](https://www.oecd.org/en/publications/g7-hiroshima-process-on-generative-artificial-intelligence-ai_bf3c0c60-en.html) highlighted a range of common policy priorities. Among those priorities considered urgent and important the ‘responsible use’ of generative AI technologies was widely viewed as the most “urgent” and most “important” for global policy.
+Responsible use of AI may take multiple forms. In the United Kingdom (UK), for instance, risk mitigation is at the heart of the [International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai). Here, risk from general purpose AI is categorised into three areas: malicious use risks, risks from malfunctions, and systemic risks. Alongside these critical guardrails and areas for risk mitigation is the essential need to recognise and address the environmental implications of AI by placing [‘People & Planet’](https://www.oecd.org/en/publications/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57.html) at the heart of a responsible AI lifecycle management framework.
+
+## AI Compute and the Environment
+
+What is ‘compute’? AI systems are dependent on computing resources that are commonly referred to as compute resources. The OCED.AI policy observatory define [AI compute](https://doi.org/10.1787/a1689dc5-en) as comprising “one or more stacks of hardware and software used to support specialised AI workloads and applications in an efficient manner”; and as [AINOW](https://ainowinstitute.org/publication/policy/compute-and-ai) outline can “include chips; software to enable the use of specialized chips like GPUs; domain-specific languages that can be optimized for machine learning; data management software; and infrastructure in data centers.”
+
+Integrating sustainability considerations into AI guardrails is crucial given the huge amount of compute resources AI systems demand. To unpack this, we zoom in on the compute needs of large-scale machine learning (ML) based AI systems. Drawing insights from the OECD digital economy paper—[A Blueprint For Building National Compute Capacity For Artificial Intelligence](https://www.oecd.org/en/publications/a-blueprint-for-building-national-compute-capacity-for-artificial-intelligence_876367e3-en.html)—there are two compute-intensive steps in the development and use of AI systems: (1) training, meaning the creation or selection of models/algorithms and their calibration, and (2) inferencing, the process that a trained ML model uses to draw conclusions from brand-new data.
+
+There is a huge need and demand for compute resources for ML based AI system training and inference. Subsequently compute availability is considered both scarce and a key bottleneck for AI development and deployment, according to a recent article in [AINOW](https://ainowinstitute.org/publication/policy/compute-and-ai). Indeed, the UK’s National AI Strategy recognises that the compute capacity for AI must be increased to meet future needs, as outlined by [The Alan Turing Institute](https://www.turing.ac.uk/news/publications/review-digital-research-infrastructure-requirements-ai).
+
+The demand for AI compute resources is increasingly rapidly as the sophistication of AI systems has evolved, particularly for deep learning applications.
+
+## AI Compute Awareness and Understanding
+
+In their [February 2023 Digital Economy Paper](https://www.oecd.org/en/publications/a-blueprint-for-building-national-compute-capacity-for-artificial-intelligence_876367e3-en.html), the OECD report how a large cloud compute provider “estimates that its enterprise customers spend 7-10% of their total compute infrastructure expenditure on supporting AI and ML applications, broken down to 3-4.5% for training and 4-4.5% for inference. This includes about 60% spent on compute platforms featuring hardware accelerators like GPUs and about 40% spent on CPU-based compute platforms”. This illustration provides one indication as to the compute resource commitments across training and inferencing in practice.
+
+However, these insights are largely anecdotal, highlighting a significant challenge in assessing the energy consumption and environmental impact of AI and, by extension, its sustainability. A key difficulty is distinguishing when computational resources are specifically dedicated to AI systems.
+
+Compute resources can be general-purpose, serving both AI and non-AI workloads, or specifically tailored for AI, yet this distinction is often not clearly made. This issue is further complicated by the lack of standardized and validated data on AI-related compute, as emphasized by the OECD.AI expert group on AI Compute and Climate. The expert group highlight a range of related challenges when it comes to capturing compute resource needs and commitments; the group’s [Insights from preliminary survey results](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/02/a-blueprint-for-building-national-compute-capacity-for-artificial-intelligence_c22fbbee/876367e3-en.pdf) revealed the following:
+
+- 31% reported that they do not measure how much AI compute they have.
+- 20% reported that they did not know whether they measure AI compute.
+- 52% of respondents reported challenges accessing sufficient AI compute.
+
+When asked about the percentage of their organisation’s total annual costs spent on AI compute:
+
+- 37% reported that they did not know.
+- 5% reported no annual costs spent on AI compute.
+- 26% reported 10-40% of costs.
+- 3% reported that AI compute costs were 50% or more of annual costs.
+
+Though the findings serve only as an illustration given the limited sample size, it is clear that issues of transparency, understanding, and knowledge pertaining to AI compute resources are real. This presents significant challenges in attempts to capture the real energy and fiscal costs of AI compute its subsequent impact on the environment. This measurability issue is further complicated by the lack of an agreed standard on how to measure AI-related compute. Consequently, there is an inability to forecast the environmental impact of AI, as well as data more broadly, leading to significant debate as to how we can obtain an approximate [average figure for one unit of data](https://doi.org/10.1080/09540962.2023.2279812).
+
+## Does the Type of AI Model Matter Impact Electricity Consumption?
+
+[Luccioni et al. (2024)](https://doi.org/10.1145/3630106.3658542) highlight the energy requirements of different AI models in their recent paper in the Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency. They report on the energy consumption per 1000 inferences of three model types: Classification tasks including images and text range between 0.002 to 0.007 kWh, Generative tasks including text generation and summarization require around 0.05 kWh; and, Multimodal tasks such as image captioning and image generation) range between 0.06 kWh to 2.9 kWh. Within task-specific models, there is significant variation between image-based tasks and text-based tasks in energy consumption intensity; as reported by the authors, image-based tasks are far more carbon intensive at 100g of 𝐶𝑂2𝑒 per 1,000 inferences compared with 0.6g per 1,000 inferences for text-based tasks. So, how AI models are deployed does matter for energy consumption and the environmental impact of AI.
+
+## Takeaways for Responsible AI Management
+
+Undoubtedly, AI has great potential for [fighting climate change](https://www.icef.go.jp/roadmap/) but the impact of AI on GHG emissions can also be negative. Projections suggest that electricity demand from components of the AI infrastructure are set to increase – [electricity demand from data centres](https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works) are expected to more than double by 2030 – and so the responsible use of AI becomes critical. We draw out three aspects of responsible AI management below:
+
+(1) The environmental impact of training AI models is often not reported and yet as Luccioni and colleagues explain, can be “orders of magnitude more energy- and carbon intensive than inference”. One recent observation suggests compute has increased by [approximately 4x per year](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai) since 2010 for training general purpose AI systems and 2.5x in training dataset size. As outlined in the digital decarbonisation article—[Three steps for businesses to make AI data and compute more sustainable—embracing](https://oecd.ai/en/wonk/three-steps-sustainable-compute-data) responsible data management practices can play a pivotal role in minimising unnecessary data storage and reducing the environmental impact of AI. AI models often demand extensive datasets for training, and inefficient data storage practices can result in heightened energy consumption and environmental strain. Though the number of inferences made can subsequently result in total costs of greater than the total cost of training, the environmental impact of training must be acknowledged and addressed. By adopting data management strategies that prioritise data minimisation, efficient storage, and responsible data disposal, we can significantly decrease the ecological footprint of AI.
+
+(2) How we engage with AI is crucial to ensuring its responsible use, especially given that, as Luccioni and colleagues highlight, using multi-purpose models for specific tasks is more energy-intensive than employing task-specific models. Therefore, as emphasized by the [digital decarbonization design group](https://www.lboro.ac.uk/schools/business-school/digital-decarbonisation/design-group/) at Loughborough University, a key step before deploying any AI system is to critically assess the level of AI truly required. While it may be tempting to adopt the latest AI technology, it is essential to evaluate whether these advancements genuinely enhance our decision-making processes or if simpler, less resource-intensive models might suffice. Sustainable AI involves striking a balance between leveraging cutting-edge technologies and opting for more environmentally sustainable models (e.g. symbolic AI). If adopting multi-purpose AI technologies, considerations ought to be given to how such models are, or have been, trained. For instance, open-source AI training datasets may help to reduce duplication and limit the demand for new data acquisition and annotation, both of which carry environmental and economic costs. However, this relationship is still under-explored and warrants further investigation. Though currently, open-source training language models are predominantly in English (57%), potentially creating [language divides in AI datasets](https://doi.org/10.1787/a1689dc5-en) that must be addressed.
+
+(3) Other practical steps to engage more responsibly with Generative AI and reduce its energy footprint are outlined in the recent UNESCO report—[Smarter, Smaller, Stronger: Resource-Efficient Generative AI & the Future of Digital Transformation](https://unesdoc.unesco.org/ark:/48223/pf0000394521). Suggested actions to reduce the environmental impact from the structure, size, and flow of digital interactions that occur from Generative AI use include:
+
+- For tasks that are specialized and repetitive (e.g. translation or summarization) use smaller, task-specific models rather than large general-purpose models – doing so can result in energy reductions of up to 90%, while maintaining strong performance (pp. 4-5).
+- By shortening AI-generated responses from 300 to 150 words, users can reportedly reduce energy consumption by over 50% per query (p. 18)
+- Reducing the size of models (via compression techniques like quantization) and computational complexity may result in energy savings of up to 44% (p. 7).
+- Combining the actions of quantization and reduced response lengths, energy expenditure can be reduced by up to 75%, “equating to approximately 30,000 U.K. households per day” (p. 20).
