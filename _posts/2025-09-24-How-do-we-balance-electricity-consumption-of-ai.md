@@ -1,5 +1,5 @@
 ---
-title: "How do we minimise the electricity consumption of AI? Balancing Innovation and Environmental Stewardship"
+title: "How do we minimise the electricity consumption of AI?"
 #excerpt_separator: "<!--more-->"
 classes: wide
 author_profile: false
@@ -7,7 +7,7 @@ categories:
   - Blog
 ---
 
-- **Tom Jackson, Professor of Information and Knowledge Management at Loughborough Business School, Loughborough University**
+- **Tom Jackson, Professor of Information and Knowledge Management at Loughborough University, and Independent Scientific Advisor for BridgeAI**
 - **Ian Hodgkinson, Professor of Strategy, Loughborough University**
 
 The need for global Artificial Intelligence (AI) guardrails was established in May 2023, when G7 Leaders identified priority topics in the ‘Hiroshima Artificial Intelligence Process’. As part of the stocktaking of opportunities and challenges related to generative AI, the subsequent [OECD report](https://www.oecd.org/en/publications/g7-hiroshima-process-on-generative-artificial-intelligence-ai_bf3c0c60-en.html) highlighted a range of common policy priorities. Among those priorities considered urgent and important the ‘responsible use’ of generative AI technologies was widely viewed as the most “urgent” and most “important” for global policy.
