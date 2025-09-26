@@ -1,5 +1,5 @@
 ---
-title: "How do we minimise the electricity consumption of AI?"
+title: "How do we minimise the electricity consumption of AI? Balancing innovation and environmental stewardship"
 #excerpt_separator: "<!--more-->"
 classes: wide
 author_profile: false
