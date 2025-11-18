@@ -32,7 +32,11 @@ minimal_mistakes_skin: "air" # "air", "default"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+
+# 2025 11 18 TEMPORARY FIX FOR SSL CERTIFICATE ISSUES
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -62,6 +66,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
 
 # Analytics
 analytics:
