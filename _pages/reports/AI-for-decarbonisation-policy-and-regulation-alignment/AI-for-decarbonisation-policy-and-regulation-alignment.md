@@ -2,7 +2,7 @@
 title: "AI for Decarbonisation: Policy and Regulation Alignment"
 layout: single
 #classes: wide
-toc: true
+toc: false
 toc_sticky: true
 toc_icon: "cog"
 permalink: /reports/AI_for_decarbonisation_policy_and_regulation_alignment

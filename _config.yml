@@ -33,9 +33,9 @@ minimal_mistakes_skin: "air" # "air", "default"
 # Build settings
 markdown: kramdown
 
-# 2025 11 18 TEMPORARY FIX FOR SSL CERTIFICATE ISSUES
-# remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+# 2025 11 18 TEMPORARY FIX FOR SSL CERTIFICATE ISSUES - CHANGE TO THEME: minimal-mistakes for local development
+remote_theme: mmistakes/minimal-mistakes
+#theme: minimal-mistakes-jekyll
 
 # Outputting
 permalink: /:categories/:title/

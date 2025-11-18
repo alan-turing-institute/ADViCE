@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
 # TEMPORARY FIX 2025 11 18 FOR SSL CERTIFICATE ISSUES
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
+#gem "minimal-mistakes-jekyll"
 
-gem "minimal-mistakes-jekyll"
 gem "tzinfo-data"
 gem "webrick", "~> 1.9"
 gem "jekyll", "~> 3.10"
