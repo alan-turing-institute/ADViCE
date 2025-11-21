@@ -1,4 +1,3 @@
-
 ---
 title: "Detecting Shallow Gas from Marine Seismic Images"
 layout: single
