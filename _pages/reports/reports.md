@@ -22,12 +22,12 @@ feature_row:
     url: "/reports/AI_for_decarbonisation"
     btn_label: "Read the report"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/ewg-1-thumbnail.png
     title: "Policy and Regulation Alignment"
     url: "/reports/AI_for_decarbonisation_policy_and_regulation_alignment"
     btn_label: "Read the report"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/images/report_data_context_ai_decarbonisation.png
     alt: "Decarbonisation Data Accessibility and Capability"
     title: "Decarbonisation Data Accessibility and Capability"
@@ -61,6 +61,6 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+{% include feature_row % type = "center"}
 {% include feature_row id = "feature_row2" %}
 {% include feature_row id = "feature_row3" %}
