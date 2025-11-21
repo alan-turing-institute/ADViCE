@@ -9,8 +9,6 @@ author_profile: false
 collection: webinars
 ---
 
-# Overview
-
 The rapid growth of AI has the potential to aid decarbonisation and help us reach net zero through optimising resources and enabling the energy transition. However, the uptake of AI also comes with a rapidly growing carbon footprint. Training large models, powering data centres, and producing specialised hardware all demand significant energy and material resources. As the world pushes toward net zero, the question is clear: how do we make AI sustainable?
 
 # Aims
