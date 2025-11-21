@@ -14,4 +14,4 @@ ADViCE (AI for Decarbonisation Virtual Centre of Excellence) is delivered by a c
 
 [Participation guidelines](participation-guidelines)
 
-[License](LICENSE)
+[License](license)
