@@ -1,4 +1,3 @@
-
 ---
 title: "Rethinking Mobility: Reducing Car Miles Through Rail and Road Insights in Scotland"
 layout: single
