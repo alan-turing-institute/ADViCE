@@ -40,7 +40,27 @@ feature_row2:
     url: /reports/unlocking_investment_and_innovation
     btn_label: "Read the report"
     btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/bgs_dsg_report.png
+    alt: "Detecting Shallow Gas from Marine Seismic Images"
+    title: "Data Study Group: Detecting Shallow Gas from Marine Seismic Images"
+    url: /reports/detecting-shallow-gas-from-marine-seismic-images
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/advice_dsg_report.png
+    alt: "Understanding Heat Pump Performance: Improving Efficiency and Adoption"
+    title: "Understanding Heat Pump Performance: Improving Efficiency and Adoption"
+    url: /reports/understanding-heat-pump-performance
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/scotrail_dsg_report.png
+    alt: "Rethinking Mobility: Reducing Car Miles Through Rail and Road Insights in Scotland"
+    title: "Rethinking Mobility: Reducing Car Miles Through Rail and Road Insights in Scotland"
+    url: /reports/rail-and-road-insights
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
 {% include feature_row id = "feature_row2" %}
+{% include feature_row id = "feature_row3" %}
