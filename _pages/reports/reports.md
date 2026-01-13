@@ -22,6 +22,12 @@ feature_row:
     url: "/reports/AI_for_decarbonisation"
     btn_label: "Read the report"
     btn_class: "btn--primary"
+  - image_path: assets/images/state-of-ai-for-decarb-thumbnail.png
+    alt: "State of AI for Decarbonisation 2025"
+    title: "State of AI for Decarbonisation 2025"
+    url: "/reports/State_of_AI_for_Decarbonisation_2025"
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/ewg-1-thumbnail.png
     title: "Policy and Regulation Alignment"
