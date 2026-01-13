@@ -9,7 +9,6 @@ author_profile: false
 collection: webinars
 ---
 
-## Overview
 
 From jaw-droppingly large investments in AI data centres to exciting AI applications in many sectors, AI has been constantly in the news in 2025. But amidst all that news it can be hard to get a clear view on whether AI is actually being effectively applied to key challenges society faces, like decarbonisation.
 
