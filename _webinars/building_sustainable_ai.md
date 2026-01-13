@@ -24,7 +24,10 @@ Together, these perspectives will map out how industry, researchers, and policym
 
 # Recording
 
-[ADViCE Webinar Series - Building Sustainable AI](https://www.youtube.com/watch?v=Wh0cfM9ywh8)
+[![BuildingSustainableAI](https://img.youtube.com/vi/Wh0cfM9ywh8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wh0cfM9ywh8)
+
+* **Title:** ADViCE Webinar Series: Building Sustainable AI
+* **Date:** 6th October 2025
 
 # Agenda
 
