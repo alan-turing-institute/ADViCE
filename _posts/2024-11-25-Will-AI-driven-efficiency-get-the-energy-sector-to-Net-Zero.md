@@ -12,6 +12,7 @@ tags:
 ---
 
 **Sam Young, AI Practice Manager, Energy Systems Catapult**
+------
 
 Organisations in every sector are embracing AI to improve efficiency and reduce operating costs. If we’re aiming for decarbonisation then that misses the point.
  
