@@ -5,6 +5,10 @@ classes: wide
 author_profile: false
 categories:
   - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 - **Sean Lockie, Associate Director at Arup**
