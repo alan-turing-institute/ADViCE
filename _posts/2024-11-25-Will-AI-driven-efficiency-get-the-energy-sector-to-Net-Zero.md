@@ -13,7 +13,7 @@ tags:
 
 -----------
 
-Sam Young, AI Practice Manager, Energy Systems Catapult
+*Sam Young, AI Practice Manager, Energy Systems Catapult*
  
 ----------
 
