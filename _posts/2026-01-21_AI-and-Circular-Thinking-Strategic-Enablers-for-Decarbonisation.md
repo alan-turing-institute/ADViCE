@@ -11,7 +11,11 @@ tags:
   - standard
 ---
 
-- **Sean Lockie, Associate Director at Arup**
+-------
+ 
+*Sean Lockie, Associate Director at Arup*
+
+-------
 
 Steel, cement and chemicals form the backbone of modern economies, but they also account for roughly <ins>25% of global carbon emissions</ins>. These sectors are notoriously hard to abate as their processes rely on extreme heat and carbon intensive reactions. As climate targets tighten and carbon pricing escalates, the race to decarbonise these industries is no longer optional - it’s essential. Enter Artificial Intelligence (AI): a transformative force accelerating the shift to low carbon production.
 
