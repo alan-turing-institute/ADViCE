@@ -1,4 +1,3 @@
-
 ---
 title: "How AI can transform agricultural emissions monitoring and drive net zero"
 #excerpt_separator: "<!--more-->"
@@ -8,7 +7,11 @@ categories:
   - Blog
 ---
 
+-------
+
 - **Richard Round, Innovation Associate - Agricultural Sustainability, UK Agri-Tech Centre**
+
+-------
 
 In this blog, Richard Round, Innovation Associate in Agricultural Sustainability at the UK Agri-Tech Centre, explores the potential of AI to decarbonise the agricultural sector through efficient data capture and monitoring systems, ultimately supporting farmers in cutting emissions and improving productivity. 
 
