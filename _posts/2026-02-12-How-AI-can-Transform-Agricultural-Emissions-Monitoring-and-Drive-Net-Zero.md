@@ -13,7 +13,7 @@ tags:
 
 -------
 
-*Richard Round, Innovation Associate - Agricultural Sustainability, UK Agri-Tech Centre*
+*Richard Round, Innovation Associate, Agricultural Sustainability, UK Agri-Tech Centre*
 
 -------
 
