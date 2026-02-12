@@ -5,15 +5,17 @@ classes: wide
 author_profile: false
 categories:
   - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 -------
 
-- **Richard Round, Innovation Associate - Agricultural Sustainability, UK Agri-Tech Centre**
+*Richard Round, Innovation Associate - Agricultural Sustainability, UK Agri-Tech Centre*
 
 -------
-
-In this blog, Richard Round, Innovation Associate in Agricultural Sustainability at the UK Agri-Tech Centre, explores the potential of AI to decarbonise the agricultural sector through efficient data capture and monitoring systems, ultimately supporting farmers in cutting emissions and improving productivity. 
 
 ## Data that works for farmers
 
