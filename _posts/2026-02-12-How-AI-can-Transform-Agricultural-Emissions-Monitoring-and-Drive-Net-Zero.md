@@ -17,7 +17,7 @@ tags:
 
 -------
 
-<p style="font-size: 16px;"><b>Data that works for farmers</b></p>
+<p style="font-size: 27px;"><b>Data that works for farmers</b></p>
 
 Agriculture accounts for around 10% of the UK’s total greenhouse gas emissions, driven mainly by methane from livestock and nitrous oxide from fertilisers. As regulators and retailers push to cut emissions, farmers face growing pressure to monitor and reduce their footprint, while staying profitable under increasingly challenging climate conditions. The challenge then is twofold: how do we measure emissions accurately, and how do we ensure farmers benefit from the process? 
 
