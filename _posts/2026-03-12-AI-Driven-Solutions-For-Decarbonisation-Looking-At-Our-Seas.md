@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Solutions for Decarbonisation: Looking at our Seas"
-#excerpt_separator: "<!--more-->"
+excerpt_separator: "<!--more-->"
 classes: wide
 author_profile: false
 categories:
@@ -11,11 +11,7 @@ tags:
   - standard
 ---
 
--------
-
-**Kimberly Tam, Theme Lead for Marine and Maritime at The Alan Turing Institute, and Associate Professor in Cybersecurity at University of Plymouth**
-
--------
+*Kimberly Tam, Theme Lead for Marine and Maritime at The Alan Turing Institute, and Associate Professor in Cybersecurity at University of Plymouth*
 
 ## The role of our oceans and the potential of AI
 
