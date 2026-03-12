@@ -11,7 +11,7 @@ tags:
   - standard
 ---
 
-*Kimberly Tam, Theme Lead for Marine and Maritime at The Alan Turing Institute, and Associate Professor in Cybersecurity at University of Plymouth*
+*Kimberly Tam, Theme Lead for Marine and Maritime at The Alan Turing Institute, and Associate Professor in Cybersecurity at University of Plymouth* <br> 
 
 12 March 2026
 
@@ -37,9 +37,9 @@ With AI being increasingly used for marine autonomy, many businesses are focus
 
 In addition to continuing with technical and policy research outlined above (plus other wonderful projects), in the following year for the marine and maritime theme, we hope to address some social challenges such as workforce diversity in marine/maritime/AI. The hope is to ensure everyone has equal voice in net-zero initiatives, and equal opportunity to heed Sir Attenborough’s call to save our oceans. 
 
-<sup>1</sup> [At 99, David Attenborough shares strongest message for the ocean | oceanographic](https://oceanographicmagazine.com/news/at-99-david-attenborough-shares-strongest-message-for-the-ocean/)
-<sup>2</sup> [Enhancing the cyber resilience of offshore wind | The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/enhancing-cyber-resilience-offshore-wind)
-<sup>3</sup> [World-first facility enhances the UK’s energy and cyber resilience | University of Plymouth](https://www.plymouth.ac.uk/news/world-first-facility-enhances-the-uks-energy-and-cyber-resilience)
-<sup>4</sup> [SeXTANt (Secure X Trustworthy AI Navigation) | The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/sextant-secure-x-trustworthy-ai-navigation)
-<sup>5</sup> [SAIMAS – Secure AI within Marine Autonomy Systems | University of Plymouth](https://www.plymouth.ac.uk/research/saimas)
+<sup>1</sup> [At 99, David Attenborough shares strongest message for the ocean - oceanographic](https://oceanographicmagazine.com/news/at-99-david-attenborough-shares-strongest-message-for-the-ocean/) <br>
+<sup>2</sup> [Enhancing the cyber resilience of offshore wind - The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/enhancing-cyber-resilience-offshore-wind) <br>
+<sup>3</sup> [World-first facility enhances the UK’s energy and cyber resilience - University of Plymouth](https://www.plymouth.ac.uk/news/world-first-facility-enhances-the-uks-energy-and-cyber-resilience) <br>
+<sup>4</sup> [SeXTANt (Secure X Trustworthy AI Navigation) - The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/sextant-secure-x-trustworthy-ai-navigation) <br>
+<sup>5</sup> [SAIMAS – Secure AI within Marine Autonomy Systems - University of Plymouth](https://www.plymouth.ac.uk/research/saimas) <br>
 
