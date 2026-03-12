@@ -11,11 +11,9 @@ tags:
   - standard
 ---
 
--------
+*Richard Round, Innovation Associate, Agricultural Sustainability, UK Agri-Tech Centre* <br>
 
-*Richard Round, Innovation Associate, Agricultural Sustainability, UK Agri-Tech Centre*
-
--------
+12 February 2026
 
 ## Data that works for farmers
 Agriculture accounts for around 10% of the UK’s total greenhouse gas emissions, driven mainly by methane from livestock and nitrous oxide from fertilisers. As regulators and retailers push to cut emissions, farmers face growing pressure to monitor and reduce their footprint, while staying profitable under increasingly challenging climate conditions. The challenge then is twofold: how do we measure emissions accurately, and how do we ensure farmers benefit from the process? 
