@@ -32,7 +32,7 @@ feature_row2:
   - image_path: assets/images/Evidence-pack-AI-for-grid.jpeg
     alt: "Evidence Pack: AI for Grid Operations"
     title: "Evidence Pack: AI for Grid Operations"
-    url: "/reports/Evidence-Pack-AI-for-Grid-Operations"
+    url: "/reports/Evidence_Pack_AI_for_Grid_Operations"
     btn_label: "Read the report"
     btn_class: "btn--primary"
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -40,7 +40,7 @@ feature_row2:
     #image_caption: "ADViCE Webinars"
     alt: "Evidence Pack: AI Optimisation for Decarbonising Freight"
     title: "Evidence Pack: AI Optimisation for Decarbonising Freight"
-    url: "/reports/Evidence-Pack-Decarbonising-Freight"
+    url: "/reports/Evidence_Pack_Decarbonising_Freight"
     btn_label: "Read the report"
     btn_class: "btn--primary"
 feature_row3:
