@@ -29,18 +29,18 @@ feature_row:
     btn_label: "Read the report"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/ai-for-decarb-challenges-report-thumbnail.png
-    alt: "AI for Decarbonisation Challenges"
-    title: "AI for Decarbonisation Challenges"
-    url: "/reports/AI_for_decarbonisation_challenges"
+  - image_path: assets/images/Evidence-pack-AI-for-grid.jpeg
+    alt: "Evidence Pack: AI for Grid Operations"
+    title: "Evidence Pack: AI for Grid Operations"
+    url: "/reports/Evidence-Pack-AI-for-Grid-Operations"
     btn_label: "Read the report"
     btn_class: "btn--primary"
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/ai-for-decarb-report-thumbnail.png
+  - image_path: /assets/images/Evidence-pack-decarbonising-freight.jpeg
     #image_caption: "ADViCE Webinars"
-    alt: "AI for Decarbonisation Ecosystem Report"
-    title: "AI for Decarbonisation Ecosystem Report"
-    url: "/reports/AI_for_decarbonisation"
+    alt: "Evidence Pack: AI Optimisation for Decarbonising Freight"
+    title: "Evidence Pack: AI Optimisation for Decarbonising Freight"
+    url: "/reports/Evidence-Pack-Decarbonising-Freight"
     btn_label: "Read the report"
     btn_class: "btn--primary"
 feature_row3:
