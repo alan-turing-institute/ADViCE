@@ -1,11 +1,11 @@
 ---
-title: "Evidence Pack - AI for Grid Operations"
+title: "Evidence Pack: AI for Grid Operations"
 layout: single
 #classes: wide
 toc: false
 toc_sticky: true
 toc_icon: "cog"
-permalink: /reports/AI_for_Grid_Operations
+permalink: /reports/Evidence_Pack_AI_for_Grid_Operations
 author_profile: false
 ---
 
