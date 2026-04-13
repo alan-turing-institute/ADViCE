@@ -29,6 +29,21 @@ feature_row:
     btn_label: "Read the report"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: assets/images/ai-for-decarb-challenges-report-thumbnail.png
+    alt: "AI for Decarbonisation Challenges"
+    title: "AI for Decarbonisation Challenges"
+    url: "/reports/AI_for_decarbonisation_challenges"
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/ai-for-decarb-report-thumbnail.png
+    #image_caption: "ADViCE Webinars"
+    alt: "AI for Decarbonisation Ecosystem Report"
+    title: "AI for Decarbonisation Ecosystem Report"
+    url: "/reports/AI_for_decarbonisation"
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/ewg-1-thumbnail.png
     title: "Policy and Regulation Alignment"
     url: "/reports/AI_for_decarbonisation_policy_and_regulation_alignment"
@@ -46,7 +61,7 @@ feature_row2:
     url: /reports/unlocking_investment_and_innovation
     btn_label: "Read the report"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/bgs_dsg_report.png
     alt: "Detecting Shallow Gas from Marine Seismic Images"
     title: "Data Study Group: Detecting Shallow Gas from Marine Seismic Images"
@@ -70,3 +85,5 @@ feature_row3:
 {% include feature_row %}
 {% include feature_row id = "feature_row2" %}
 {% include feature_row id = "feature_row3" %}
+{% include feature_row id = "feature_row3" %}
+
