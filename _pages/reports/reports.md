@@ -43,6 +43,13 @@ feature_row2:
     url: "/reports/Evidence_Pack_Decarbonising_Freight"
     btn_label: "Read the report"
     btn_class: "btn--primary"
+  - image_path: /assets/images/Synthetic-Data-Report.png
+    #image_caption: "ADViCE Webinars"
+    alt: "Synthetic Data in the context of AI for Decarbonisation"
+    title: "Synthetic Data in the context of AI for Decarbonisation"
+    url: "/reports/Synthetic_Data"
+    btn_label: "Read the report"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/ewg-1-thumbnail.png
     title: "Policy and Regulation Alignment"
