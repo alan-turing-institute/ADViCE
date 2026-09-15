@@ -1,0 +1,44 @@
+---
+title: "What counts as AI?"
+excerpt_separator: "<!--more-->"
+classes: wide
+author_profile: false
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - policy
+  - standard
+  - AI Sustainability
+  - Responsible AI
+---
+
+-----------
+
+**Christopher Nathan, Policy Fellow, The Alan Turing Institute** <br> 
+
+14 September 2026
+----------
+
+# What are AI emissions? Why the answer is a value choice
+
+
+How much energy does AI use? The question looks like a matter of measurement, but in practice people reading the same data can give different answers. The disagreement is about prior questions that the figures alone do not raise: what is to count as AI, and which emissions do we assign to it?
+
+Consider first the aggregate picture. The International Energy Agency’s [Key Questions on Energy and AI](https://www.iea.org/reports/key-questions-on-energy-and-ai), published in November 2025, reports that capital expenditure on data centre infrastructure by just five technology companies exceeded $400 billion in 2025, larger than global investment in oil and gas production. Data centre electricity consumption grew 17% in 2025 to around 485 terawatt-hours, with demand from AI-focused data centres increasing by 50%.
+
+Now consider the other side. A standard ChatGPT prompt is associated with somewhere between 0.0003 and 0.001 kWh, comparable to running an LED bulb for a few minutes. [It would take in the region of a thousand prompts to raise an average daily energy use by one per cent](https://blog.andymasley.com/p/a-short-summary-of-my-argument-that). Whatever the public conversation about AI and the environment needs, it is not anguish over individual queries; nor is it complacency about aggregate growth of data centres; both pictures are real.
+
+The difference between the micro and the macro pictures is about more than just scaling LLM queries. Estimates like ‘AI accounts for 15% of data centre electricity’ rest on a prior idea about what AI is. The IEA’s earlier [Energy and AI](https://www.iea.org/reports/energy-and-ai) report defines AI as ‘the science of making machines capable of learning to perform tasks that traditionally required human intelligence’ and describes it as ‘emerging as a general-purpose technology, much like electricity.’ Its quantitative analysis proceeds via specific server categories and facilities, labelled as ‘AI factories’. These are reasonable choices, but they are not the only ones available.
+
+Consider recommendation engines for content feeds and advertising. These are widely understood to account for a substantial share of inference workloads at large platforms, sometimes a larger share than the generative AI products that capture public attention. Are recommendation engines AI? They run on machine learning, but they are relatively simple; public usage of the term would often exclude them from the category of AI; and the boom in their use precedes the explosion of LLMs. At the other end, cryptocurrency mining shares hardware and facilities with AI but is plainly not AI; the IEA’s estimate explicitly excludes it, while other aggregations will include it in headline data centre totals. Many commercial products marketed as AI-powered rely on regression analysis or rules-based automation, technologies that have existed for decades. A single GPU in a hyperscaler facility may spend part of its time training a large language model, part on recommendation systems, and part rendering video for streaming. AI energy use depends on how we draw the line, as well as on the energy use itself.
+
+The same conceptual question gets answered differently in different settings. The European Union’s AI Act, designed to regulate risk, defines an AI system broadly enough to catch many machine learning applications, including recommendation systems and fraud detection. The IEA’s energy analysis, as above, conceptualises AI quite differently, according to data facility type, suited to forecasting infrastructure demand; this scope would exclude a good deal of what the AI Act regulates. The UK’s AI Growth Zones policy uses a narrower scope still, focused on the strategically important capability the policy aims to foster. None of these is putting forward a definition of AI *tout court*; each is providing a category for a purpose at hand. But the scopes differ, and the differences are not negligible. When we ask ‘how much energy does AI use’, the answer depends on which scope is active, and the choice of scope is a judgement about what we are trying to assess, for whom, and to what end.
+
+Nor is AI definition scope the only such choice. A further hazard concerns the methods themselves. Environmental accounting imposes a number of decisions. Consider the distinction between attributional methods, which apportion emissions to activities, and consequential methods, which track the difference a decision makes. Under the market-based method that dominates corporate reporting, a data centre’s renewable power purchase agreement (a PPA is a contract for electricity from a specific renewable generator) is counted as zero-carbon: the contracted megawatt-hours, backed by renewable energy certificates, are reported as renewable. But consequential methods ask something different: whether the PPA *caused* renewable capacity that would otherwise not have been built. The question is answerable, but the answer depends on which methodology is used to assess it, and the assumptions each makes about how electricity markets respond. The choice between methodologies is itself a choice about purpose.
+
+Biofuels are a familiar case from outside AI. By attributional lifecycle accounting, the fuel is carbon-neutral: the carbon released on combustion was absorbed by the crop during growth. [Searchinger and colleagues showed in 2008](https://www.science.org/doi/10.1126/science.1151861) that this attributional framing, as applied in policy assessments, gave biofuels a favourable headline by excluding land-use change effects that broader accounting would capture; including them produced quite different results. The same texture, with the further issue of combining different methods, appears in current AI sustainability reporting. [Annual matching of electricity consumption against contracted renewable supply](https://blogs.microsoft.com/blog/2026/02/18/a-milestone-achievement-in-our-journey-to-carbon-negative/) uses the GHG Protocol’s market-based Scope 2 method, an attributional approach [whose link to actual emission reductions remains an active question in the literature](https://www.nature.com/articles/s41558-022-01379-5). In contrast, reports of emission reductions enabled by AI products, such as Google’s argument that [five of its AI products together reduced annual CO2 equivalent emissions by 26 million metric tons](https://blog.google/company-news/outreach-and-initiatives/sustainability/environmental-report-2025/), inherently rest on consequential counterfactuals. How figures from these different methods should be related, and what aggregate claims they support, remains unsettled, methodologically and conceptually.
+
+So uncritical talk of *the* emissions of AI, as if there were a single value to be discovered, can rest on a kind of accidental composition, or on other implicit methodological choices. This is not a quirk of new technology. In a [2020 paper](https://link.springer.com/article/10.1007/s11569-020-00376-2), I argued that life cycle assessments inevitably embed value judgements: in the selection of which impacts to count, in the weighting of incommensurable costs, and in the definition of system boundaries. Where the boundary is drawn determines what counts as an effect of the system under study and what is treated as outside it, and that determination may be technical, but it can’t be made on technical grounds alone, as it depends on the context in which one is making an assessment. An insinuation that boundary choices are a purely scientific question can conceal contested decisions, moving them away from debate by treating them as if they were not decisions at all.
+
+Better measurement does real work: it can tell us, with growing accuracy, how much electricity a server uses, how much renewable capacity a firm has under contract, how a particular workload has grown. But however precise the measurement, the prior questions remain: which workloads belong inside the category of AI for the purposes of this analysis, which emissions are attributed to those workloads, and what type of decision or claim is the resulting figure meant to support. Those are choices about purpose, but they can easily be inherited rather than examined, even though the answers to them shape what measurement tells us. The answer to ‘how much energy does AI use’ begins with other questions: which AI, and why did we choose that way?
